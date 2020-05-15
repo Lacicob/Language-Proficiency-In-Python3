@@ -1,0 +1,6 @@
+import cmath
+a = int(input())
+b = int(input())
+m = int(input())
+
+print(pow(a,b),pow(a,b,m),sep = "\n")
