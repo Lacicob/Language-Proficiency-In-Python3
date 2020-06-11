@@ -1,6 +1,6 @@
-l = [ ]
-second_lowest_names = [ ]
-scores = [ ]
+l = []
+second_lowest_names = []
+scores = []
 
 for _ in range(int(input())):
     name = input()
