@@ -1,7 +1,8 @@
 if __name__ == '__main__' :
+	
 	N = int(input())
 	
-	List = [ ]
+	List = []
 	for j in range(N) :
 		str = input().split()
 		
