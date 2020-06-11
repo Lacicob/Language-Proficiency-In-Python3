@@ -1,5 +1,4 @@
 def mutate_string(str,pos,char) :
-	
 	L = list(str)
 	L[pos] = char
 	str = ''.join(L)
