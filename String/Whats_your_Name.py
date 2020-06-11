@@ -1,6 +1,6 @@
 def print_full_name(a,b) :
 	print("Hello {first} {last}! You just delved into python.".format(first = a,last = b))
-	
+	#one more way
 	print("Hello %s %s! You just delved into python."%(a,b))
 	
 if __name__ == '__main__' :
